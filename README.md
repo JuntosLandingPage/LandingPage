@@ -39,7 +39,7 @@ Este proyecto fue desarrollado por el equipo de estudiantes de la **Universidad 
 
 | Recurso | Enlace |
 | :--- | :--- |
-| **Landing Page (Demo)** | `https://codesandbox.io/p/sandbox/juntos-22st9f` |
+| **Landing Page (Demo)** | `https://codesandbox.io/p/sandbox/qwygdm` |
 | **Documento del Proyecto** | `https://docs.google.com/document/d/18Fvdyw6z5ap3kPP4aXCGdnwFZVknGbWQtjTzxKL8Q-k/edit?usp=sharing` |
 | **Mockups y Prototipo** | `https://www.figma.com/design/PhNw5DajHCHVlEtNIBW1SE/Untitled?node-id=1-2&t=DymdGjEpl74amj0x-1` |
 
